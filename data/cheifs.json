@@ -1,0 +1,329 @@
+[
+   {
+      "id": "1",
+      "name": "David Lee",
+      "image": "https://i.ibb.co/Km42PgG/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash-1.jpg",
+      "bio": "David is a chef who specializes in Asian cuisine. He has over 10 years of experience and has worked in top restaurants in Hong Kong, Japan, and Thailand.",
+      "likes": 1500,
+      "numRecipes": 4,
+      "yearsExperience": 10,
+      "recipes": [
+         {
+            "id": "1",
+            "name": "Pad Thai",
+            "ingredients": [
+               "rice noodles",
+               "shrimp",
+               "tofu",
+               "bean sprouts",
+               "eggs"
+            ],
+            "cookingMethod": "1. Soak rice noodles in cold water for 30 minutes. 2. Heat oil in a wok or large skillet. 3. Add shrimp and stir-fry until pink. 4. Add tofu, bean sprouts, and eggs. 5. Add soaked noodles and sauce. 6. Stir-fry until everything is well combined. 7. Serve with lime wedges and chopped peanuts.",
+            "rating": 4.5,
+            "isFavorite": false
+         },
+         {
+            "id": "2",
+            "name": "Sushi Rolls",
+            "ingredients": [
+               "sushi rice",
+               "nori sheets",
+               "tuna",
+               "avocado",
+               "cucumber"
+            ],
+            "cookingMethod": "1. Cook sushi rice according to package directions. 2. Place nori sheet on a bamboo mat. 3. Spread rice evenly on the nori sheet, leaving a 1-inch border at the top. 4. Add tuna, avocado, and cucumber on top of the rice. 5. Roll up the sushi tightly using the bamboo mat. 6. Slice into bite-sized pieces. 7. Serve with soy sauce and wasabi.",
+            "rating": 4,
+            "isFavorite": false
+         },
+         {
+            "id": "3",
+            "name": "Tom Yum Soup",
+            "ingredients": [
+               "shrimp",
+               "lemongrass",
+               "kaffir lime leaves",
+               "chili peppers",
+               "mushrooms"
+            ],
+            "cookingMethod": "1. Bring chicken broth to a boil in a large pot. 2. Add lemongrass, kaffir lime leaves, and chili peppers. 3. Simmer for 5 minutes. 4. Add shrimp and mushrooms. 5. Simmer for another 5 minutes. 6. Stir in fish sauce, lime juice, and sugar. 7. Serve hot.",
+            "rating": 4.5,
+            "isFavorite": false
+         }
+      ]
+   },
+   {
+      "id": "2",
+      "name": "John Smith",
+      "image": "https://i.ibb.co/z8YcmWg/pexels-cottonbro-studio-4252146-1.jpg",
+      "bio": "John is a classically trained chef with over 20 years of experience. He has worked in top restaurants in Europe and the United States, and has won several awards for his innovative cuisine.",
+      "likes": 3000,
+      "numRecipes": 6,
+      "yearsExperience": 20,
+      "recipes": [
+         {
+            "id": "1",
+            "name": "Coq Au Vin",
+            "ingredients": [
+               "chicken",
+               "red wine",
+               "bacon",
+               "onion",
+               "carrot",
+               "garlic"
+            ],
+            "cookingMethod": "1. Season chicken with salt and pepper. 2. In a large skillet, cook bacon until crisp. 3. Remove bacon and set aside. 4. Add chicken to the skillet and brown on all sides. 5. Remove chicken and set aside. 6. Add onion and carrot to the skillet and cook until soft. 7. Add garlic and cook for another minute. 8. Add red wine to the skillet and bring to a boil. 9. Add chicken and bacon back to the skillet. 10. Cover and simmer for 1 hour. 11. Serve hot with mashed potatoes or crusty bread.",
+            "rating": 4.8,
+            "isFavorite": false
+         },
+         {
+            "id": "2",
+            "name": "Beef Wellington",
+            "ingredients": [
+               "beef tenderloin",
+               "mushrooms",
+               "puff pastry",
+               "egg"
+            ],
+            "cookingMethod": "1. Preheat oven to 400 degrees F. 2. Season beef tenderloin with salt and pepper. 3. In a large skillet, sear beef on all sides. 4. Remove beef and set aside. 5. In the same skillet, sauté mushrooms until browned. 6. Roll out puff pastry and place beef in the center. 7. Spread sautéed mushrooms on top of the beef. 8. Wrap the puff pastry around the beef, sealing the edges. 9. Brush with beaten egg. 10. Bake for 25-30 minutes, or until pastry is golden brown. 11. Let rest for 5 minutes before slicing. 12. Serve hot.",
+            "rating": 4.7,
+            "isFavorite": false
+         },
+         {
+            "id": "3",
+            "name": "Margherita Pizza",
+            "ingredients": [
+               "pizza dough",
+               "tomato sauce",
+               "fresh mozzarella",
+               "fresh basil",
+               "olive oil"
+            ],
+            "cookingMethod": "1. Preheat oven to 500 degrees F. 2. Roll out pizza dough into a circle. 3. Spread tomato sauce evenly on top. 4. Add slices of fresh mozzarella on top of the sauce. 5. Bake in the preheated oven for 8-10 minutes. 6. Once cooked, top with fresh basil leaves and drizzle with olive oil.",
+            "rating": 4,
+            "isFavorite": false
+         }
+      ]
+   },
+   {
+      "id": "3",
+      "name": "Maria Rodriguez",
+      "image": "https://i.ibb.co/TYYpfJP/pexels-kampus-production-8629121-1.jpg",
+      "bio": "Maria is a pastry chef who specializes in French desserts. She has over 15 years of experience and has worked in top restaurants in Paris and New York.",
+      "likes": 3000,
+      "numRecipes": 6,
+      "yearsExperience": 15,
+      "recipes": [
+         {
+            "id": "1",
+            "name": "Crème Brûlée",
+            "ingredients": [
+               "heavy cream",
+               "sugar",
+               "egg yolks",
+               "vanilla extract"
+            ],
+            "cookingMethod": "1. Preheat oven to 325°F. 2. In a medium saucepan, heat cream until just simmering. 3. In a separate bowl, whisk together egg yolks and sugar until light and frothy. 4. Slowly pour hot cream into egg mixture while whisking constantly. 5. Stir in vanilla extract. 6. Pour mixture into ramekins and place in a baking dish. 7. Add hot water to the baking dish to create a water bath. 8. Bake for 35-40 minutes, until set but still slightly jiggly. 9. Let cool to room temperature, then refrigerate for at least 2 hours. 10. Just before serving, sprinkle sugar on top of each ramekin and use a culinary torch to caramelize the sugar until golden brown.",
+            "rating": 5,
+            "isFavorite": true
+         },
+         {
+            "id": "2",
+            "name": "Chocolate Mousse",
+            "ingredients": ["dark chocolate", "heavy cream", "eggs", "sugar"],
+            "cookingMethod": "1. Melt chocolate in a double boiler. 2. In a separate bowl, beat egg whites until stiff peaks form. 3. In another bowl, beat heavy cream and sugar until soft peaks form. 4. Whisk egg yolks into melted chocolate. 5. Fold in whipped cream. 6. Gently fold in egg whites. 7. Pour mixture into serving dishes and chill for at least 2 hours before serving.",
+            "rating": 4.5,
+            "isFavorite": false
+         },
+         {
+            "id": "3",
+            "name": "Tarte Tatin",
+            "ingredients": ["puff pastry", "apples", "butter", "sugar"],
+            "cookingMethod": "1. Preheat oven to 375°F. 2. Roll out puff pastry and cut a circle slightly larger than your baking dish. 3. Peel and slice apples. 4. Melt butter in a skillet over medium heat. 5. Add sugar and stir until dissolved. 6. Add apples and cook until caramelized. 7. Pour apple mixture into baking dish. 8. Top with puff pastry, tucking the edges into the dish. 9. Bake for 30-35 minutes, until pastry is golden brown. 10. Let cool for 5 minutes, then invert onto a serving plate.",
+            "rating": 4,
+            "isFavorite": false
+         }
+      ]
+   },
+   {
+      "id": "4",
+      "name": "Eryk",
+      "image": "https://i.ibb.co/TYYpfJP/pexels-kampus-production-8629121-1.jpg",
+      "bio": "John is a barbecue pitmaster who has been smoking meat for over 20 years. He has won numerous awards and is a recognized authority on Texas-style brisket.",
+      "likes": 5000,
+      "numRecipes": 10,
+      "yearsExperience": 20,
+      "recipes": [
+         {
+            "id": "1",
+            "name": "Texas-style Brisket",
+            "ingredients": [
+               "brisket",
+               "kosher salt",
+               "black pepper",
+               "smoking wood"
+            ],
+            "cookingMethod": "1. Trim the fat cap on the brisket to 1/4 inch. 2. Season the brisket generously with kosher salt and black pepper. 3. Build a fire in your smoker with smoking wood. 4. Place the brisket in the smoker fat side up. 5. Smoke the brisket at 225°F for 12-18 hours, depending on the size. 6. Wrap the brisket in butcher paper and return to the smoker until it reaches an internal temperature of 205°F. 7. Rest the brisket for at least 1 hour before slicing against the grain.",
+            "rating": 5,
+            "isFavorite": true
+         },
+         {
+            "id": "2",
+            "name": "Pulled Pork",
+            "ingredients": [
+               "pork shoulder",
+               "kosher salt",
+               "paprika",
+               "garlic powder",
+               "smoking wood"
+            ],
+            "cookingMethod": "1. Season the pork shoulder with kosher salt, paprika, and garlic powder. 2. Build a fire in your smoker with smoking wood. 3. Place the pork shoulder in the smoker fat side up. 4. Smoke the pork shoulder at 225°F for 8-10 hours, until it reaches an internal temperature of 203°F. 5. Remove the pork shoulder from the smoker and let it rest for at least 30 minutes. 6. Use two forks to shred the pork shoulder into bite-sized pieces.",
+            "rating": 4.5,
+            "isFavorite": false
+         },
+         {
+            "id": "3",
+            "name": "Smoked Ribs",
+            "ingredients": [
+               "pork ribs",
+               "kosher salt",
+               "black pepper",
+               "smoking wood"
+            ],
+            "cookingMethod": "1. Remove the membrane from the back of the ribs. 2. Season the ribs generously with kosher salt and black pepper. 3. Build a fire in your smoker with smoking wood. 4. Place the ribs in the smoker bone side down. 5. Smoke the ribs at 225°F for 4-5 hours, until the meat is tender and the bones are showing. 6. Wrap the ribs in foil with a splash of apple juice and return to the smoker for 1 hour. 7. Unwrap the ribs and brush with your favorite barbecue sauce. 8. Return the ribs to the smoker for 30 minutes to set the sauce.",
+            "rating": 4,
+            "isFavorite": false
+         }
+      ]
+   },
+   {
+      "id": "6",
+      "name": "Cedar-Planked Salmon",
+      "image": "https://i.ibb.co/4NSFqJn/pexels-rene-asmussen-3217156-1.jpg",
+      "bio": "Mary is a seafood chef who has been cooking fish for over 15 years. She loves experimenting with new flavors and techniques to bring out the best in each dish.",
+      "likes": 3000,
+      "numRecipes": 8,
+      "yearsExperience": 15,
+      "recipes": [
+         {
+            "id": "1",
+            "name": "Grilled Salmon with Lemon-Dill Butter",
+            "ingredients": [
+               "salmon fillets",
+               "olive oil",
+               "lemon",
+               "fresh dill",
+               "garlic",
+               "salt",
+               "black pepper"
+            ],
+            "cookingMethod": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with salt and black pepper. 3. Grill salmon for 4-5 minutes per side, or until cooked through. 4. Meanwhile, make the lemon-dill butter: melt butter in a small saucepan over medium heat. Add garlic and cook for 1 minute. Remove from heat and stir in lemon juice and chopped dill. 5. Serve grilled salmon with a dollop of lemon-dill butter.",
+            "rating": 4.8,
+            "isFavorite": true
+         },
+         {
+            "id": "2",
+            "name": "Baked Salmon with Maple-Mustard Glaze",
+            "ingredients": [
+               "salmon fillets",
+               "olive oil",
+               "maple syrup",
+               "dijon mustard",
+               "apple cider vinegar",
+               "garlic",
+               "salt",
+               "black pepper"
+            ],
+            "cookingMethod": "1. Preheat oven to 375°F. 2. Place salmon fillets in a baking dish and drizzle with olive oil. Season with salt and black pepper. 3. In a small bowl, whisk together maple syrup, dijon mustard, apple cider vinegar, and minced garlic. 4. Spoon glaze over salmon fillets. 5. Bake for 15-20 minutes, or until salmon is cooked through and glaze is caramelized. 6. Serve with your favorite side dish.",
+            "rating": 4.5,
+            "isFavorite": false
+         },
+         {
+            "id": "3",
+            "name": "Smoked Salmon Salad",
+            "ingredients": [
+               "smoked salmon",
+               "mixed greens",
+               "red onion",
+               "cucumber",
+               "cherry tomatoes",
+               "hard-boiled eggs",
+               "olive oil",
+               "lemon juice",
+               "dijon mustard",
+               "honey",
+               "salt",
+               "black pepper"
+            ],
+            "cookingMethod": "1. In a large bowl, whisk together olive oil, lemon juice, dijon mustard, honey, salt, and black pepper. 2. Add mixed greens, sliced red onion, diced cucumber, halved cherry tomatoes, and sliced hard-boiled eggs to the bowl. Toss to combine. 3. Flake smoked salmon over the top of the salad. 4. Serve immediately.",
+            "rating": 4.2,
+            "isFavorite": false
+         }
+      ]
+   },
+   {
+      "id": "5",
+      "name": "Cedar-Planked Salmon",
+      "image": "https://i.ibb.co/HPqkcNs/pexels-mikhail-nilov-6707683-1.jpg",
+      "bio": "Mary is a seafood chef who has been cooking fish for over 15 years. She loves experimenting with new flavors and techniques to bring out the best in each dish.",
+      "likes": 3000,
+      "numRecipes": 8,
+      "yearsExperience": 15,
+      "recipes": [
+         {
+            "id": "1",
+            "name": "Grilled Salmon with Lemon-Dill Butter",
+            "ingredients": [
+               "salmon fillets",
+               "olive oil",
+               "lemon",
+               "fresh dill",
+               "garlic",
+               "salt",
+               "black pepper"
+            ],
+            "cookingMethod": "1. Preheat grill to medium-high heat. 2. Rub salmon fillets with olive oil and season with salt and black pepper. 3. Grill salmon for 4-5 minutes per side, or until cooked through. 4. Meanwhile, make the lemon-dill butter: melt butter in a small saucepan over medium heat. Add garlic and cook for 1 minute. Remove from heat and stir in lemon juice and chopped dill. 5. Serve grilled salmon with a dollop of lemon-dill butter.",
+            "rating": 4.8,
+            "isFavorite": true
+         },
+         {
+            "id": "2",
+            "name": "Baked Salmon with Maple-Mustard Glaze",
+            "ingredients": [
+               "salmon fillets",
+               "olive oil",
+               "maple syrup",
+               "dijon mustard",
+               "apple cider vinegar",
+               "garlic",
+               "salt",
+               "black pepper"
+            ],
+            "cookingMethod": "1. Preheat oven to 375°F. 2. Place salmon fillets in a baking dish and drizzle with olive oil. Season with salt and black pepper. 3. In a small bowl, whisk together maple syrup, dijon mustard, apple cider vinegar, and minced garlic. 4. Spoon glaze over salmon fillets. 5. Bake for 15-20 minutes, or until salmon is cooked through and glaze is caramelized. 6. Serve with your favorite side dish.",
+            "rating": 4.5,
+            "isFavorite": false
+         },
+         {
+            "id": "3",
+            "name": "Smoked Salmon Salad",
+            "ingredients": [
+               "smoked salmon",
+               "mixed greens",
+               "red onion",
+               "cucumber",
+               "cherry tomatoes",
+               "hard-boiled eggs",
+               "olive oil",
+               "lemon juice",
+               "dijon mustard",
+               "honey",
+               "salt",
+               "black pepper"
+            ],
+            "cookingMethod": "1. In a large bowl, whisk together olive oil, lemon juice, dijon mustard, honey, salt, and black pepper. 2. Add mixed greens, sliced red onion, diced cucumber, halved cherry tomatoes, and sliced hard-boiled eggs to the bowl. Toss to combine. 3. Flake smoked salmon over the top of the salad. 4. Serve immediately.",
+            "rating": 4.2,
+            "isFavorite": false
+         }
+      ]
+   }
+]

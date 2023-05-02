@@ -1,8 +1,8 @@
 [
    {
       "id": "1",
-      "name": "David Lee",
-      "image": "https://i.ibb.co/Km42PgG/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash-1.jpg",
+      "name": "David",
+      "image": "https://i.ibb.co/TYYpfJP/pexels-kampus-production-8629121-1.jpg",
       "bio": "David is a chef who specializes in Asian cuisine. He has over 10 years of experience and has worked in top restaurants in Hong Kong, Japan, and Thailand.",
       "likes": 1500,
       "numRecipes": 4,
@@ -54,8 +54,8 @@
    },
    {
       "id": "2",
-      "name": "John Smith",
-      "image": "https://i.ibb.co/z8YcmWg/pexels-cottonbro-studio-4252146-1.jpg",
+      "name": "George",
+      "image": "https://i.ibb.co/TYYpfJP/pexels-kampus-production-8629121-1.jpg",
       "bio": "John is a classically trained chef with over 20 years of experience. He has worked in top restaurants in Europe and the United States, and has won several awards for his innovative cuisine.",
       "likes": 3000,
       "numRecipes": 6,
@@ -198,8 +198,8 @@
    },
    {
       "id": "6",
-      "name": "Cedar-Planked Salmon",
-      "image": "https://i.ibb.co/4NSFqJn/pexels-rene-asmussen-3217156-1.jpg",
+      "name": "james",
+      "image": "https://i.ibb.co/TYYpfJP/pexels-kampus-production-8629121-1.jpg",
       "bio": "Mary is a seafood chef who has been cooking fish for over 15 years. She loves experimenting with new flavors and techniques to bring out the best in each dish.",
       "likes": 3000,
       "numRecipes": 8,
@@ -263,8 +263,8 @@
    },
    {
       "id": "5",
-      "name": "Cedar-Planked Salmon",
-      "image": "https://i.ibb.co/HPqkcNs/pexels-mikhail-nilov-6707683-1.jpg",
+      "name": "William",
+      "image": "https://i.ibb.co/TYYpfJP/pexels-kampus-production-8629121-1.jpg",
       "bio": "Mary is a seafood chef who has been cooking fish for over 15 years. She loves experimenting with new flavors and techniques to bring out the best in each dish.",
       "likes": 3000,
       "numRecipes": 8,
